@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "benchmark": "^2.1.4",
+    "chalk": "^2.1.0"
+  },
+  "scripts": {
+    "start": "node ./benchmarking.js"
+  }
+}
